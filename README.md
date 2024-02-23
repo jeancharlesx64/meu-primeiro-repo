@@ -1,2 +1,2 @@
-# meu-primeiro-repo
-Creating my first repository 
+# My first repository
+- Editing my README.md 
